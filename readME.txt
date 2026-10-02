@@ -1,1 +1,2 @@
-first commit trial from branch deneme.
+first commit trial.
+added from branch deneme.
