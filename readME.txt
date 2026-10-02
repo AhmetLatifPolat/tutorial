@@ -1,4 +1,4 @@
 first commit trial. add something
 added from branch deneme.
 added another line.
-updated from remote.
+updated from remote.14
